@@ -1,0 +1,371 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &3033443436886801997
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 10193140608535716, guid: 1f8a6e94ef7d93f4a9280a62b46cb1eb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: a93263a4f5a476c44aa68562ad576b8c, type: 2}
+    - target: {fileID: 10193140608535716, guid: 1f8a6e94ef7d93f4a9280a62b46cb1eb,
+        type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 275133147811580515, guid: 1f8a6e94ef7d93f4a9280a62b46cb1eb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: fb8516e0aa62dff49a9c1bb0dc6e09d8, type: 2}
+    - target: {fileID: 275133147811580515, guid: 1f8a6e94ef7d93f4a9280a62b46cb1eb,
+        type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 723828674945329998, guid: 1f8a6e94ef7d93f4a9280a62b46cb1eb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 4b21a5a32da4f6941a1079817376a751, type: 2}
+    - target: {fileID: 723828674945329998, guid: 1f8a6e94ef7d93f4a9280a62b46cb1eb,
+        type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 790551152992642152, guid: 1f8a6e94ef7d93f4a9280a62b46cb1eb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: fd98ea6ef77ebb342a662eb65a8a94ef, type: 2}
+    - target: {fileID: 790551152992642152, guid: 1f8a6e94ef7d93f4a9280a62b46cb1eb,
+        type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 797459586242883787, guid: 1f8a6e94ef7d93f4a9280a62b46cb1eb,
+        type: 3}
+      propertyPath: m_Name
+      value: Undershirt
+      objectReference: {fileID: 0}
+    - target: {fileID: 811523555077525398, guid: 1f8a6e94ef7d93f4a9280a62b46cb1eb,
+        type: 3}
+      propertyPath: m_Name
+      value: Earrings
+      objectReference: {fileID: 0}
+    - target: {fileID: 1042678627214967301, guid: 1f8a6e94ef7d93f4a9280a62b46cb1eb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 17bb990ed596eee46a21b2225d22c4bb, type: 2}
+    - target: {fileID: 1042678627214967301, guid: 1f8a6e94ef7d93f4a9280a62b46cb1eb,
+        type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1070437134552447812, guid: 1f8a6e94ef7d93f4a9280a62b46cb1eb,
+        type: 3}
+      propertyPath: m_Name
+      value: Hair
+      objectReference: {fileID: 0}
+    - target: {fileID: 1184602003859524261, guid: 1f8a6e94ef7d93f4a9280a62b46cb1eb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 836e2cec11fa61c4e837641873f7a15f, type: 2}
+    - target: {fileID: 1184602003859524261, guid: 1f8a6e94ef7d93f4a9280a62b46cb1eb,
+        type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1275411685760428593, guid: 1f8a6e94ef7d93f4a9280a62b46cb1eb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 243320f134ef9b44b83fce37e3348c3f, type: 2}
+    - target: {fileID: 1275411685760428593, guid: 1f8a6e94ef7d93f4a9280a62b46cb1eb,
+        type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1442795910696711951, guid: 1f8a6e94ef7d93f4a9280a62b46cb1eb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 03aa59fb4fcae8747bce8891f590fc27, type: 2}
+    - target: {fileID: 1442795910696711951, guid: 1f8a6e94ef7d93f4a9280a62b46cb1eb,
+        type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1809992390077029724, guid: 1f8a6e94ef7d93f4a9280a62b46cb1eb,
+        type: 3}
+      propertyPath: m_Name
+      value: Legs
+      objectReference: {fileID: 0}
+    - target: {fileID: 1814941330206166830, guid: 1f8a6e94ef7d93f4a9280a62b46cb1eb,
+        type: 3}
+      propertyPath: m_Name
+      value: RightEye
+      objectReference: {fileID: 0}
+    - target: {fileID: 1864965853594586215, guid: 1f8a6e94ef7d93f4a9280a62b46cb1eb,
+        type: 3}
+      propertyPath: m_Name
+      value: Link
+      objectReference: {fileID: 0}
+    - target: {fileID: 1864965853594586215, guid: 1f8a6e94ef7d93f4a9280a62b46cb1eb,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2167752733942089319, guid: 1f8a6e94ef7d93f4a9280a62b46cb1eb,
+        type: 3}
+      propertyPath: m_Name
+      value: TorsoBelt
+      objectReference: {fileID: 0}
+    - target: {fileID: 2725246377339175849, guid: 1f8a6e94ef7d93f4a9280a62b46cb1eb,
+        type: 3}
+      propertyPath: m_Name
+      value: Head
+      objectReference: {fileID: 0}
+    - target: {fileID: 2847326558987387245, guid: 1f8a6e94ef7d93f4a9280a62b46cb1eb,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0.52
+      objectReference: {fileID: 0}
+    - target: {fileID: 2847326558987387245, guid: 1f8a6e94ef7d93f4a9280a62b46cb1eb,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2847326558987387245, guid: 1f8a6e94ef7d93f4a9280a62b46cb1eb,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -7.36
+      objectReference: {fileID: 0}
+    - target: {fileID: 2847326558987387245, guid: 1f8a6e94ef7d93f4a9280a62b46cb1eb,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2847326558987387245, guid: 1f8a6e94ef7d93f4a9280a62b46cb1eb,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.28113097
+      objectReference: {fileID: 0}
+    - target: {fileID: 2847326558987387245, guid: 1f8a6e94ef7d93f4a9280a62b46cb1eb,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2847326558987387245, guid: 1f8a6e94ef7d93f4a9280a62b46cb1eb,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: -0.9596695
+      objectReference: {fileID: 0}
+    - target: {fileID: 2847326558987387245, guid: 1f8a6e94ef7d93f4a9280a62b46cb1eb,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2847326558987387245, guid: 1f8a6e94ef7d93f4a9280a62b46cb1eb,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2847326558987387245, guid: 1f8a6e94ef7d93f4a9280a62b46cb1eb,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: -327.345
+      objectReference: {fileID: 0}
+    - target: {fileID: 2847326558987387245, guid: 1f8a6e94ef7d93f4a9280a62b46cb1eb,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3261898869530131655, guid: 1f8a6e94ef7d93f4a9280a62b46cb1eb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: ddb2a4606972e4948acac2e8f84081fb, type: 2}
+    - target: {fileID: 3261898869530131655, guid: 1f8a6e94ef7d93f4a9280a62b46cb1eb,
+        type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3262575738168678596, guid: 1f8a6e94ef7d93f4a9280a62b46cb1eb,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3262575738168678596, guid: 1f8a6e94ef7d93f4a9280a62b46cb1eb,
+        type: 3}
+      propertyPath: m_Name
+      value: MainBelt
+      objectReference: {fileID: 0}
+    - target: {fileID: 3762813700613769977, guid: 1f8a6e94ef7d93f4a9280a62b46cb1eb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: d2b51d8a0f215064ca3b30f04cd667ab, type: 2}
+    - target: {fileID: 3762813700613769977, guid: 1f8a6e94ef7d93f4a9280a62b46cb1eb,
+        type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4247964180247090288, guid: 1f8a6e94ef7d93f4a9280a62b46cb1eb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: b56d40a75171a0a49bfae76cf134f0ee, type: 2}
+    - target: {fileID: 4247964180247090288, guid: 1f8a6e94ef7d93f4a9280a62b46cb1eb,
+        type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4390568562599028769, guid: 1f8a6e94ef7d93f4a9280a62b46cb1eb,
+        type: 3}
+      propertyPath: m_Name
+      value: Gloves
+      objectReference: {fileID: 0}
+    - target: {fileID: 4663849084854674815, guid: 1f8a6e94ef7d93f4a9280a62b46cb1eb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 1aa5911ff783bf047873920ae1d1ed67, type: 2}
+    - target: {fileID: 4663849084854674815, guid: 1f8a6e94ef7d93f4a9280a62b46cb1eb,
+        type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5105161391416145293, guid: 1f8a6e94ef7d93f4a9280a62b46cb1eb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 9b546f1d22830b64ba70c580455fba50, type: 2}
+    - target: {fileID: 5105161391416145293, guid: 1f8a6e94ef7d93f4a9280a62b46cb1eb,
+        type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5108481954447638426, guid: 1f8a6e94ef7d93f4a9280a62b46cb1eb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: d5c1843bb79aa674caf516f7ae87c207, type: 2}
+    - target: {fileID: 5108481954447638426, guid: 1f8a6e94ef7d93f4a9280a62b46cb1eb,
+        type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5164810942166783508, guid: 1f8a6e94ef7d93f4a9280a62b46cb1eb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: bddbf532607af8a4fb50dd7618ca029e, type: 2}
+    - target: {fileID: 5164810942166783508, guid: 1f8a6e94ef7d93f4a9280a62b46cb1eb,
+        type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6086975599617401757, guid: 1f8a6e94ef7d93f4a9280a62b46cb1eb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 0c5f95fc27a64e541854b6c218a0f8e0, type: 2}
+    - target: {fileID: 6086975599617401757, guid: 1f8a6e94ef7d93f4a9280a62b46cb1eb,
+        type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6137601133191429645, guid: 1f8a6e94ef7d93f4a9280a62b46cb1eb,
+        type: 3}
+      propertyPath: m_Name
+      value: LeftEye
+      objectReference: {fileID: 0}
+    - target: {fileID: 6195880200672706254, guid: 1f8a6e94ef7d93f4a9280a62b46cb1eb,
+        type: 3}
+      propertyPath: m_Name
+      value: Gauntlets
+      objectReference: {fileID: 0}
+    - target: {fileID: 6241363665297239843, guid: 1f8a6e94ef7d93f4a9280a62b46cb1eb,
+        type: 3}
+      propertyPath: m_Name
+      value: Forearms
+      objectReference: {fileID: 0}
+    - target: {fileID: 6292148272586048097, guid: 1f8a6e94ef7d93f4a9280a62b46cb1eb,
+        type: 3}
+      propertyPath: m_Name
+      value: Eyelashes
+      objectReference: {fileID: 0}
+    - target: {fileID: 6604926562473948342, guid: 1f8a6e94ef7d93f4a9280a62b46cb1eb,
+        type: 3}
+      propertyPath: m_Name
+      value: FingersNeck
+      objectReference: {fileID: 0}
+    - target: {fileID: 6639251331956914262, guid: 1f8a6e94ef7d93f4a9280a62b46cb1eb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: e5aebf2b57f46174abd38a2d9b007b27, type: 2}
+    - target: {fileID: 6639251331956914262, guid: 1f8a6e94ef7d93f4a9280a62b46cb1eb,
+        type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7327387704124126646, guid: 1f8a6e94ef7d93f4a9280a62b46cb1eb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 62a030af3a8f12940b0192e86a5a22ac, type: 2}
+    - target: {fileID: 7327387704124126646, guid: 1f8a6e94ef7d93f4a9280a62b46cb1eb,
+        type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7590062848659964306, guid: 1f8a6e94ef7d93f4a9280a62b46cb1eb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 8048a0b719feb8b4e8537c08aaf14de4, type: 2}
+    - target: {fileID: 7590062848659964306, guid: 1f8a6e94ef7d93f4a9280a62b46cb1eb,
+        type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7628162411554353636, guid: 1f8a6e94ef7d93f4a9280a62b46cb1eb,
+        type: 3}
+      propertyPath: m_Name
+      value: MasterSword
+      objectReference: {fileID: 0}
+    - target: {fileID: 8275323435459492587, guid: 1f8a6e94ef7d93f4a9280a62b46cb1eb,
+        type: 3}
+      propertyPath: m_Name
+      value: LowerBelt
+      objectReference: {fileID: 0}
+    - target: {fileID: 8275323435459492587, guid: 1f8a6e94ef7d93f4a9280a62b46cb1eb,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8713253064121033121, guid: 1f8a6e94ef7d93f4a9280a62b46cb1eb,
+        type: 3}
+      propertyPath: m_Name
+      value: Sheath
+      objectReference: {fileID: 0}
+    - target: {fileID: 8979908595710529910, guid: 1f8a6e94ef7d93f4a9280a62b46cb1eb,
+        type: 3}
+      propertyPath: m_Name
+      value: Tunic
+      objectReference: {fileID: 0}
+    - target: {fileID: 9103083934190839773, guid: 1f8a6e94ef7d93f4a9280a62b46cb1eb,
+        type: 3}
+      propertyPath: m_Name
+      value: Shield
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 1f8a6e94ef7d93f4a9280a62b46cb1eb, type: 3}
