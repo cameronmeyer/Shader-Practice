@@ -211,7 +211,7 @@ PrefabInstance:
     - target: {fileID: -4216859302048453862, guid: cdf5f71c378b319489293bdc3b36f875,
         type: 3}
       propertyPath: m_RootOrder
-      value: 7
+      value: 8
       objectReference: {fileID: 0}
     - target: {fileID: -4216859302048453862, guid: cdf5f71c378b319489293bdc3b36f875,
         type: 3}
@@ -272,6 +272,7 @@ GameObject:
   - component: {fileID: 411714544}
   - component: {fileID: 411714543}
   - component: {fileID: 411714546}
+  - component: {fileID: 411714547}
   m_Layer: 0
   m_Name: Main Camera
   m_TagString: MainCamera
@@ -375,6 +376,20 @@ MonoBehaviour:
   m_RequiresDepthTexture: 0
   m_RequiresColorTexture: 0
   m_Version: 2
+--- !u!114 &411714547
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 411714542}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fc9cbe877b5aa2b4a8e093b283e12d32, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  mainSpeed: 10
+  camSens: 0.1
 --- !u!1 &457507918 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -927199367670048503, guid: cdf5f71c378b319489293bdc3b36f875,
@@ -853,6 +868,11 @@ PrefabInstance:
       propertyPath: m_Materials.Array.data[1]
       value: 
       objectReference: {fileID: 2100000, guid: c6b8f1f16e72f2a4b8b18051088bd626, type: 2}
+    - target: {fileID: 7666613528706681730, guid: 0b55a05f005cfdd44ac7df9ceb085087,
+        type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 0b55a05f005cfdd44ac7df9ceb085087, type: 3}
 --- !u!1 &1258506048
