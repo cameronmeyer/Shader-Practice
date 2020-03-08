@@ -24,6 +24,10 @@ Material:
         m_Texture: {fileID: 2800000, guid: bf90e5d2f7c0c5540adac2ba32d73cb3, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
+    - Texture2D_B6CC430:
+        m_Texture: {fileID: 2800000, guid: 717ddb41c3fcf4d4abb97876f354fe45, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
     - _BaseMap:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
@@ -52,15 +56,22 @@ Material:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
+    - _Texture2DAsset_6120323B_Out_0:
+        m_Texture: {fileID: 2800000, guid: 717ddb41c3fcf4d4abb97876f354fe45, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
     m_Floats:
     - Vector1_1370F615: 1.55
     - Vector1_16B9AE16: 20.38
-    - Vector1_273095A3: 1.03
+    - Vector1_273095A3: 0
     - Vector1_2C9EE0CA: 0.3
     - Vector1_30234D09: 0.43
+    - Vector1_3D7C1285: 5
     - Vector1_88D8426B: 0.87
     - Vector1_88F95366: 9.4
+    - Vector1_B994D762: 0.76
     - Vector1_CD54DEC4: 0.1
+    - Vector1_E98C275E: 0.64
     - _AlphaClip: 0
     - _Blend: 0
     - _BumpScale: 1
