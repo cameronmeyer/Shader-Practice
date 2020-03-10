@@ -1077,6 +1077,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Spirit Orb
       objectReference: {fileID: 0}
+    - target: {fileID: 2329833606252946748, guid: 05674b00a86cb4747bc11fc6b53be08c,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 2329833606266706464, guid: 05674b00a86cb4747bc11fc6b53be08c,
         type: 3}
       propertyPath: m_Camera
@@ -1106,7 +1111,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!23 &2648282566997310287
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -1126,7 +1131,6 @@ MeshRenderer:
   m_RendererPriority: 0
   m_Materials:
   - {fileID: 2100000, guid: 14f116e380c300242a471409444d0514, type: 2}
-  - {fileID: 2100000, guid: e29b389dc20b03248954e4c948a55ad7, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -1214,6 +1218,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Link
       objectReference: {fileID: 0}
+    - target: {fileID: 3745099520642232874, guid: 47fb5755160f73c40aeb6d75816babe3,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 47fb5755160f73c40aeb6d75816babe3, type: 3}
 --- !u!33 &4090343660733533669
@@ -1262,7 +1271,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2471910054968581495}
   m_LocalRotation: {x: -0, y: 0.07587797, z: -0, w: 0.99711716}
-  m_LocalPosition: {x: -4.209, y: 1.784, z: 0.539}
+  m_LocalPosition: {x: 0.29, y: 0.21, z: -0.03}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 855519391954394071}

@@ -8,7 +8,7 @@ Material:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: ToonBulb
-  m_Shader: {fileID: -6465566751694194690, guid: e3d3f746c2420344f8aba3815f8458f3,
+  m_Shader: {fileID: -6465566751694194690, guid: e2d5ab0c5604470439775d65dfa0c357,
     type: 3}
   m_ShaderKeywords: 
   m_LightmapFlags: 4
@@ -21,6 +21,10 @@ Material:
     serializedVersion: 3
     m_TexEnvs:
     - Texture2D_926A19DF:
+        m_Texture: {fileID: 2800000, guid: dba0d85a92981a5499ee84a2fd46a89d, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - Texture2D_F5D7B476:
         m_Texture: {fileID: 2800000, guid: dba0d85a92981a5499ee84a2fd46a89d, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
@@ -53,8 +57,14 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     m_Floats:
+    - Boolean_70DC8568: 1
+    - Boolean_7B3DC251: 0
+    - Boolean_8E6793B3: 1
+    - Vector1_2FACF48F: 0.7
+    - Vector1_65A1CCBA: 0.1
     - Vector1_7A8A90BC: 10.02
     - Vector1_879D86C0: 0.148
+    - Vector1_C29C4E3D: 32
     - Vector1_EACF0C02: 0.79
     - _AlphaClip: 0
     - _Blend: 0
@@ -78,9 +88,13 @@ Material:
     - _WorkflowMode: 1
     - _ZWrite: 1
     m_Colors:
+    - Color_25431453: {r: 0.8962264, g: 0.8962264, b: 0.8962264, a: 1}
+    - Color_5BBB7D65: {r: 0.7490196, g: 0.7490196, b: 0.7490196, a: 1}
+    - Color_84686C61: {r: 1, g: 1, b: 1, a: 1}
     - Color_BF46606: {r: 0.8490566, g: 0.8490566, b: 0.8490566, a: 1}
     - Color_E9C27A65: {r: 0.4528302, g: 0.4528302, b: 0.4528302, a: 1}
     - Color_F3690051: {r: 1, g: 1, b: 1, a: 1}
+    - Color_F6E6BB0E: {r: 1, g: 1, b: 1, a: 1}
     - Color_FD7CB3BB: {r: 1, g: 1, b: 1, a: 1}
     - _BaseColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
     - _Color: {r: 0.5, g: 0.5, b: 0.5, a: 1}
