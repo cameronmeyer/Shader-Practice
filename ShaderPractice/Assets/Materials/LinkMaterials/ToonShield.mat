@@ -1,5 +1,18 @@
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-3458866378228736065
+MonoBehaviour:
+  m_ObjectHideFlags: 11
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d0353a89b1f911e48b9e16bdc9f2e058, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  version: 1
 --- !u!21 &2100000
 Material:
   serializedVersion: 6
@@ -7,7 +20,7 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Undershirt
+  m_Name: ToonShield
   m_Shader: {fileID: -6465566751694194690, guid: e2d5ab0c5604470439775d65dfa0c357,
     type: 3}
   m_ShaderKeywords: 
@@ -20,27 +33,15 @@ Material:
   m_SavedProperties:
     serializedVersion: 3
     m_TexEnvs:
-    - Texture2D_926A19DF:
-        m_Texture: {fileID: 2800000, guid: ceddffea43637ea4a89e33c31cd99026, type: 3}
+    - Texture2D_F5D7B476:
+        m_Texture: {fileID: 2800000, guid: a3104e32291909942a954fce40a55da7, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
-    - Texture2D_F5D7B476:
-        m_Texture: {fileID: 2800000, guid: ceddffea43637ea4a89e33c31cd99026, type: 3}
+    - _BaseMap:
+        m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _BumpMap:
-        m_Texture: {fileID: 0}
-        m_Scale: {x: 1, y: 1}
-        m_Offset: {x: 0, y: 0}
-    - _DetailAlbedoMap:
-        m_Texture: {fileID: 0}
-        m_Scale: {x: 1, y: 1}
-        m_Offset: {x: 0, y: 0}
-    - _DetailMask:
-        m_Texture: {fileID: 0}
-        m_Scale: {x: 1, y: 1}
-        m_Offset: {x: 0, y: 0}
-    - _DetailNormalMap:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
@@ -49,7 +50,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MainTex:
-        m_Texture: {fileID: 2800000, guid: ceddffea43637ea4a89e33c31cd99026, type: 3}
+        m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MetallicGlossMap:
@@ -60,12 +61,8 @@ Material:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
-    - _ParallaxMap:
+    - _SpecGlossMap:
         m_Texture: {fileID: 0}
-        m_Scale: {x: 1, y: 1}
-        m_Offset: {x: 0, y: 0}
-    - _Ramp:
-        m_Texture: {fileID: 2800000, guid: b7d99e830b38e4044a5a78e3fe2372b7, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _Texture2DAsset_1DD9831_Out_0:
@@ -73,46 +70,41 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     m_Floats:
-    - Boolean_70DC8568: 0
+    - Boolean_70DC8568: 1
     - Boolean_7B3DC251: 1
-    - Boolean_8E6793B3: 0
-    - Boolean_A5C18104: 1
+    - Boolean_8E6793B3: 1
+    - Boolean_A5C18104: 0
     - Vector1_2FACF48F: 0.716
-    - Vector1_65A1CCBA: 0.1
-    - Vector1_69447E4F: 46.9
-    - Vector1_7A8A90BC: 32
-    - Vector1_879D86C0: 0.1
-    - Vector1_C29C4E3D: 32
-    - Vector1_EACF0C02: 0.716
+    - Vector1_65A1CCBA: 0.21
+    - Vector1_69447E4F: 12
+    - Vector1_C29C4E3D: 40
+    - _AlphaClip: 0
+    - _Blend: 0
     - _BumpScale: 1
+    - _Cull: 2
     - _Cutoff: 0.5
-    - _DetailNormalMapScale: 1
     - _DstBlend: 0
-    - _GlossMapScale: 1
-    - _Glossiness: 32
-    - _GlossyReflections: 1
+    - _EnvironmentReflections: 1
+    - _GlossMapScale: 0
+    - _Glossiness: 0
+    - _GlossyReflections: 0
     - _Metallic: 0
-    - _Mode: 0
     - _OcclusionStrength: 1
-    - _Parallax: 0.02
-    - _RimAmount: 0.716
-    - _RimThreshold: 0.1
+    - _QueueOffset: 0
+    - _ReceiveShadows: 1
+    - _Smoothness: 0.5
     - _SmoothnessTextureChannel: 0
     - _SpecularHighlights: 1
     - _SrcBlend: 1
-    - _UVSec: 0
+    - _Surface: 0
+    - _WorkflowMode: 1
     - _ZWrite: 1
     m_Colors:
     - Color_25431453: {r: 0.6666667, g: 0.6666667, b: 0.6666667, a: 1}
     - Color_5BBB7D65: {r: 1, g: 1, b: 1, a: 1}
     - Color_84686C61: {r: 1, g: 1, b: 1, a: 1}
-    - Color_BF46606: {r: 0.9019608, g: 0.9019608, b: 0.9019608, a: 1}
-    - Color_E9C27A65: {r: 0.4, g: 0.4, b: 0.4, a: 1}
-    - Color_F3690051: {r: 1, g: 1, b: 1, a: 1}
-    - Color_F6E6BB0E: {r: 0.9046614, g: 0.9046614, b: 0.9046614, a: 1}
-    - Color_FD7CB3BB: {r: 1, g: 1, b: 1, a: 1}
-    - _AmbientColor: {r: 0.4, g: 0.4, b: 0.4, a: 1}
-    - _Color: {r: 1, g: 1, b: 1, a: 1}
+    - Color_F6E6BB0E: {r: 47.937256, g: 47.937256, b: 47.937256, a: 1}
+    - _BaseColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
+    - _Color: {r: 0.5, g: 0.5, b: 0.5, a: 1}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
-    - _RimColor: {r: 1, g: 1, b: 1, a: 1}
-    - _SpecularColor: {r: 0.9, g: 0.9, b: 0.9, a: 1}
+    - _SpecColor: {r: 0.19999996, g: 0.19999996, b: 0.19999996, a: 1}

@@ -8,7 +8,7 @@ Material:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: Legs
-  m_Shader: {fileID: -6465566751694194690, guid: e3d3f746c2420344f8aba3815f8458f3,
+  m_Shader: {fileID: -6465566751694194690, guid: e2d5ab0c5604470439775d65dfa0c357,
     type: 3}
   m_ShaderKeywords: 
   m_LightmapFlags: 4
@@ -21,6 +21,10 @@ Material:
     serializedVersion: 3
     m_TexEnvs:
     - Texture2D_926A19DF:
+        m_Texture: {fileID: 2800000, guid: f7577c98d9536f441aec024ac92aac8f, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - Texture2D_F5D7B476:
         m_Texture: {fileID: 2800000, guid: f7577c98d9536f441aec024ac92aac8f, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
@@ -64,9 +68,21 @@ Material:
         m_Texture: {fileID: 2800000, guid: b7d99e830b38e4044a5a78e3fe2372b7, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
+    - _Texture2DAsset_1DD9831_Out_0:
+        m_Texture: {fileID: 2800000, guid: ceab33033d8384e41912c1d3c21abb49, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
     m_Floats:
+    - Boolean_70DC8568: 0
+    - Boolean_7B3DC251: 1
+    - Boolean_8E6793B3: 0
+    - Boolean_A5C18104: 1
+    - Vector1_2FACF48F: 0.716
+    - Vector1_65A1CCBA: 0.1
+    - Vector1_69447E4F: 50
     - Vector1_7A8A90BC: 32
     - Vector1_879D86C0: 0.1
+    - Vector1_C29C4E3D: 32
     - Vector1_EACF0C02: 0.716
     - _BumpScale: 1
     - _Cutoff: 0.5
@@ -87,9 +103,13 @@ Material:
     - _UVSec: 0
     - _ZWrite: 1
     m_Colors:
+    - Color_25431453: {r: 0.6666667, g: 0.6666667, b: 0.6666667, a: 1}
+    - Color_5BBB7D65: {r: 1, g: 1, b: 1, a: 1}
+    - Color_84686C61: {r: 1, g: 1, b: 1, a: 1}
     - Color_BF46606: {r: 0.9019608, g: 0.9019608, b: 0.9019608, a: 1}
     - Color_E9C27A65: {r: 0.4, g: 0.4, b: 0.4, a: 1}
     - Color_F3690051: {r: 1, g: 1, b: 1, a: 1}
+    - Color_F6E6BB0E: {r: 0.9046614, g: 0.9046614, b: 0.9046614, a: 1}
     - Color_FD7CB3BB: {r: 1, g: 1, b: 1, a: 1}
     - _AmbientColor: {r: 0.4, g: 0.4, b: 0.4, a: 1}
     - _Color: {r: 1, g: 1, b: 1, a: 1}
