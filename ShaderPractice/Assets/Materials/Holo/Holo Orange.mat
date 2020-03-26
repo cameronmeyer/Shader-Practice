@@ -7,7 +7,7 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Holo
+  m_Name: Holo Orange
   m_Shader: {fileID: -6465566751694194690, guid: 6544059c4678c414ab1b57532c37436c,
     type: 3}
   m_ShaderKeywords: 
@@ -90,8 +90,8 @@ Material:
     - _WorkflowMode: 1
     - _ZWrite: 0
     m_Colors:
-    - Color_1F996318: {r: 0.37137696, g: 0, b: 1, a: 0}
-    - Color_47F3F7DD: {r: 2, g: 0, b: 0.6117647, a: 0}
+    - Color_1F996318: {r: 1, g: 0.87925386, b: 0, a: 0}
+    - Color_47F3F7DD: {r: 4.759382, g: 0.048085712, b: 0, a: 0}
     - _BaseColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
     - _Color: {r: 0.5, g: 0.5, b: 0.5, a: 1}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
