@@ -89,7 +89,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1836544280594474246}
   m_Layer: 0
-  m_Name: node_Sheath_-35206_25
+  m_Name: Link Weapons
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
